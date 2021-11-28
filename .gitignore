@@ -1,0 +1,14 @@
+# system files and folders to ignore
+/.git
+/__pycache__
+/.vscode
+/venv
+/.idea
+/.DS_Store
+
+
+# user files and folders to ignore
+
+
+
+## DO NOT IGNORE LIST
